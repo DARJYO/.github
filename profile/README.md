@@ -10,13 +10,13 @@ DARJYO was est. in 2019 primarily as an emerging tech startup and 5 years later 
 
 These are projects currently being constantly updated and maintained by our team:
 
-1. [virtXpro](https://github.com/VirtXpro):
+2. [virtXpro](https://github.com/VirtXpro):
    <p align="left">
    <img width="100%" src="https://github.com/arishma108/arishma108/blob/main/assets/virtX1.jpg">
    </p >
    virtXpro is our Virtual work Experience Program.
 
-2. [Sawoti](https://github.com/SawotiPravah):
+1. [Sawoti](https://github.com/SawotiPravah):
    <p align="left">
    <img width="100%" src="https://github.com/arishma108/arishma108/blob/main/assets/q29.jpg">
    </p >
