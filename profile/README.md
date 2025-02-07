@@ -7,6 +7,7 @@
 DARJYO was est. in 2019 primarily as an emerging tech startup innovating with Cloud, AI, Blockchain, IoT, Data Science, DevOps, Cybersecurity, 5G, Edge and Quantum Computing  and 5 years later we scaled our small startup to pivot into agritech. We create ambitious and innovative projects. We have worked on various projects, some you can view in this repo.
 
 # Our Co-founders
+
 1. [Technical Co-founder - Darshani Persadh ](https://github.com/arishma108)
 2. [Co-founder - Jyothika Persadh ](https://github.com/aquarianite)
 
@@ -25,7 +26,7 @@ These are projects currently being constantly updated and maintained by our team
    </p >
    virtXpro is our Virtual work Experience Program.
 
-# Our website And External Links
+# Our Website and External Links
 
 Check out our Official Website to learn more about who we are and what we do:- [DARJYO](https://www.darjyo.com)    
 Check out our CSI Website to look through our corporate social investments:- [CSI](https://csi.darjyo.com)    
