@@ -4,7 +4,8 @@
 
 # About DARJYO
 
-DARJYO was est. in 2019 primarily as an emerging tech startup innovating with Cloud, AI, Blockchain, IoT, Data Science, DevOps, Cybersecurity, 5G, Edge and Quantum Computing  and 5 years later we scaled our small startup to pivot into agritech. We create ambitious and innovative projects. We have worked on various projects, some you can view in this repo.
+DARJYO was est. in 2019 primarily as an emerging tech startup innovating with Cloud, AI, Blockchain, IoT, Data Science, DevOps, Cybersecurity, 5G, Edge and Quantum Computing. 
+5 years later we've scaled our small startup to pivot into agritech. We create ambitious and innovative projects, some you can view in this repo.
 
 # Our Co-founders
 
