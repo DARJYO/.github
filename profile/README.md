@@ -4,7 +4,11 @@
 
 # About DARJYO
 
-DARJYO was est. in 2019 primarily as an emerging tech startup and 5 years later we scaled our small startup to pivot into agritech. We create ambitious and innovative projects. We have worked on various projects, some you can view in this repo.
+DARJYO was est. in 2019 primarily as an emerging tech startup innovating with Cloud, AI, Blockchain, IoT, Data Science, DevOps, Cybersecurity, 5G, Edge and Quantum Computing  and 5 years later we scaled our small startup to pivot into agritech. We create ambitious and innovative projects. We have worked on various projects, some you can view in this repo.
+
+# Our Co-founders
+1. [Technical Co-founder - Darshani Persadh ](https://github.com/arishma108)
+2. [Co-founder - Jyothika Persadh ](https://github.com/aquarianite)
 
 # Our Flagship Projects
 
