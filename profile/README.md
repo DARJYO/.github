@@ -19,7 +19,7 @@ These are projects currently being constantly updated and maintained by our team
    <p align="left">
    <img width="100%" src="https://github.com/arishma108/arishma108/blob/main/assets/q29.jpg">
    </p >
-   Sawoti Pravah is our Agri-Dev repo for our 38 hectare Q29 farm.
+   Sawoti Pravah is our Agri-Dev repo.
 
 2. [virtXpro](https://github.com/VirtXpro):
    <p align="left">
